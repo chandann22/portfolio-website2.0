@@ -10,6 +10,8 @@
 
 <br>
 
+**Try it Live:** https://chandann22.github.io/portfolio-website2.0/
+
 This is the source code for my personal developer portfolio — a fast, fully responsive, single-page
 site built from scratch with **plain HTML, CSS and JavaScript** (no frameworks, no build step).
 It showcases my projects, skills, live coding stats, certifications and resume in one place.
