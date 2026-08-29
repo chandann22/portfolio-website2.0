@@ -81,9 +81,7 @@ personal-portfolio-website/
 | **About** | Background, focus areas, education |
 | **Skills** | Languages, frameworks, databases, core CS concepts |
 | **Projects** | Voxa AI, Personal Portfolio, Student Management System, Fraud Detection System |
-| **Stats** | Live GitHub stats, streak, top languages, LeetCode heatmap |
 | **Achievements** | Academic honors + certifications with descriptions and certificate links |
-| **Journey** | Timeline from starting CSE to the present internship search |
 | **Resume** | Inline PDF preview + view/download buttons |
 | **Contact** | Email (copy-to-clipboard), GitHub, LinkedIn, LeetCode |
 
